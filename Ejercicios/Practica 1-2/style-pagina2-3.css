@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+
+body {
+    background-color: rebeccapurple;
+    color: red;
+}
+
+a {
+    text-decoration: underline;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    border: 5px dotted black;
+    background-color: white;
+    color: black;
+}

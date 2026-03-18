@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 70px;
+    border: 10px solid white;
+    background-color: yellow;
+    color: red;
+}
